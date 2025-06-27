@@ -31,7 +31,7 @@ for($i=0;$i -lt $types.Length;$i++){
             | Select-Object -Property Type, `
                                       TimeWritten, `
                                       SourceName, `
-                                      EventCode, ` 
+                                      EventCode, `
                                       @{Name="CategoryString"; Expression = { if ($_.CategoryString) { $_.CategoryString } else { "無" } }}, 
                                       Message `
             | ConvertTo-Csv -NoTypeInformation `
@@ -40,7 +40,7 @@ for($i=0;$i -lt $types.Length;$i++){
 
     $FilePath="~\Downloads\$($kmtDate)$($logNames[$types[$i]]).csv"
 
-    if($types[$i] -eq ""){
+    if($types[$i] -eq "Security"){
         Set-Content -Path $FilePath -Value "關鍵字,日期和時間,來源,事件識別碼,工作類別"
     }else{
         Set-Content -Path $FilePath -Value "等級,日期和時間,來源,事件識別碼,工作類別"
