@@ -1,0 +1,224 @@
+﻿等級,日期和時間,來源,事件識別碼,工作類別
+資訊,2025/6/26 下午 11:00:21,Microsoft-Windows-Time-Service,158,無,時間提供者 'VMICTimeProvider' 指出目前的硬體與作業環境不受支援且已停止。對於非 HyperV 客體環境上的 VMICTimeProvider，這是預期的行為。對於目前作業環境中的目前提供者，這可能也是預期的行為。
+資訊,2025/6/26 下午 10:46:40,Microsoft-Windows-Kernel-General,11,無,登錄區 \??\GLOBALROOT\Device\HarddiskVolumeShadowCopy4\WINDOWS\System32\config\DRIVERS (TM: {8f3b9714-4ea7-11f0-bce6-28d043171b5b}，RM: {8f3b9713-4ea7-11f0-bce6-28d043171b5b}) 的 TxR 初始化階段已完成，結果=0xC00000A2 (內部碼=7)。
+資訊,2025/6/26 下午 10:46:40,Microsoft-Windows-Kernel-General,11,無,登錄區 \??\GLOBALROOT\Device\HarddiskVolumeShadowCopy4\WINDOWS\System32\config\SYSTEM (TM: {8f3b9711-4ea7-11f0-bce6-28d043171b5b}，RM: {8f3b9710-4ea7-11f0-bce6-28d043171b5b}) 的 TxR 初始化階段已完成，結果=0xC00000A2 (內部碼=7)。
+資訊,2025/6/26 下午 10:46:39,Microsoft-Windows-Ntfs,98,無,磁碟區 ?? (\Device\HarddiskVolumeShadowCopy4) 的健康情況良好。不需要採取任何動作。
+資訊,2025/6/26 下午 10:43:17,Microsoft-Windows-Time-Service,158,無,時間提供者 'VMICTimeProvider' 指出目前的硬體與作業環境不受支援且已停止。對於非 HyperV 客體環境上的 VMICTimeProvider，這是預期的行為。對於目前作業環境中的目前提供者，這可能也是預期的行為。
+錯誤,2025/6/26 下午 10:34:24,Volsnap,36,無,因為使用者規定了限制所以陰影複製儲存區無法擴充，磁碟區 C: 的陰影複製被中止。
+資訊,2025/6/26 下午 10:33:29,Volsnap,33,無,為了保持磁碟區 C: 陰影複製的磁碟空間使用量低於使用者所定義的限制，已刪除磁碟區 C: 的最舊陰影複製。
+資訊,2025/6/26 下午 10:32:20,Volsnap,33,無,為了保持磁碟區 C: 陰影複製的磁碟空間使用量低於使用者所定義的限制，已刪除磁碟區 C: 的最舊陰影複製。
+資訊,2025/6/26 下午 10:27:32,Service Control Manager,7040,無,Background Intelligent Transfer Service 服務的啟動類型已從 自動啟動 變更為 指定啟動。
+資訊,2025/6/26 下午 10:26:13,Microsoft-Windows-Time-Service,158,無,時間提供者 'VMICTimeProvider' 指出目前的硬體與作業環境不受支援且已停止。對於非 HyperV 客體環境上的 VMICTimeProvider，這是預期的行為。對於目前作業環境中的目前提供者，這可能也是預期的行為。
+資訊,2025/6/26 下午 10:25:32,Service Control Manager,7040,無,Background Intelligent Transfer Service 服務的啟動類型已從 指定啟動 變更為 自動啟動。
+資訊,2025/6/26 下午 10:22:47,Microsoft-Windows-IsolatedUserMode,2,無,Secure Trustlet Id 6 and Pid 36396 stopped with status STATUS_SUCCESS.
+資訊,2025/6/26 下午 10:19:07,Microsoft-Windows-WindowsUpdateClient,19,Windows Update 代理程式,安裝成功: Windows 已順利安裝下列更新: 安全情報更新 Microsoft Defender Antivirus - KB2267602 (版本 1.431.235.0) - 目前通道 (廣泛)
+資訊,2025/6/26 下午 10:19:02,Microsoft-Windows-WindowsUpdateClient,43,Windows Update 代理程式,已開始安裝: Windows 已開始安裝下列更新: 安全情報更新 Microsoft Defender Antivirus - KB2267602 (版本 1.431.235.0) - 目前通道 (廣泛)
+資訊,2025/6/26 下午 10:19:02,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:40,Microsoft-Windows-WindowsUpdateClient,19,Windows Update 代理程式,安裝成功: Windows 已順利安裝下列更新: 9PM9DFQRDH3F-B9ECED6F.ArmouryCrate
+資訊,2025/6/26 下午 10:18:39,Microsoft-Windows-WindowsUpdateClient,43,Windows Update 代理程式,已開始安裝: Windows 已開始安裝下列更新: 9PM9DFQRDH3F-B9ECED6F.ArmouryCrate
+資訊,2025/6/26 下午 10:18:38,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\B9ECED6F.ArmouryCrate_6.2.9.0_x64__qmba6cd70vzyy\ActivationStore.dat 中的存取歷程記錄，更新了 0 個機碼並建立了 0 個修改的頁面。
+資訊,2025/6/26 下午 10:18:31,Microsoft-Windows-WindowsUpdateClient,19,Windows Update 代理程式,安裝成功: Windows 已順利安裝下列更新: 9WZDNCRFJ3PT-MICROSOFT.ZUNEMUSIC
+資訊,2025/6/26 下午 10:18:31,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\Settings\settings.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:18:31,Microsoft-Windows-WindowsUpdateClient,43,Windows Update 代理程式,已開始安裝: Windows 已開始安裝下列更新: 9WZDNCRFJ3PT-MICROSOFT.ZUNEMUSIC
+資訊,2025/6/26 下午 10:18:30,Microsoft-Windows-WindowsUpdateClient,19,Windows Update 代理程式,安裝成功: Windows 已順利安裝下列更新: 9WZDNCRFJBBG-MICROSOFT.WINDOWSCAMERA
+資訊,2025/6/26 下午 10:18:29,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.ZuneMusic_11.2505.2.0_x64__8wekyb3d8bbwe\ActivationStore.dat 中的存取歷程記錄，更新了 0 個機碼並建立了 0 個修改的頁面。
+資訊,2025/6/26 下午 10:18:29,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.WindowsCamera_8wekyb3d8bbwe\Settings\settings.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:18:29,Microsoft-Windows-WindowsUpdateClient,43,Windows Update 代理程式,已開始安裝: Windows 已開始安裝下列更新: 9WZDNCRFJBBG-MICROSOFT.WINDOWSCAMERA
+資訊,2025/6/26 下午 10:18:29,Service Control Manager,7040,無,Background Intelligent Transfer Service 服務的啟動類型已從 自動啟動 變更為 指定啟動。
+資訊,2025/6/26 下午 10:18:28,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsCamera_2025.2505.2.0_x64__8wekyb3d8bbwe\ActivationStore.dat 中的存取歷程記錄，更新了 0 個機碼並建立了 0 個修改的頁面。
+資訊,2025/6/26 下午 10:18:24,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:24,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:24,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:23,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:21,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:21,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:21,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:19,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:17,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:17,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:17,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:11,Microsoft-Windows-WindowsUpdateClient,19,Windows Update 代理程式,安裝成功: Windows 已順利安裝下列更新: 9WZDNCRFJ3P2-MICROSOFT.ZUNEVIDEO
+資訊,2025/6/26 下午 10:18:11,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\Settings\settings.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:18:11,Microsoft-Windows-WindowsUpdateClient,43,Windows Update 代理程式,已開始安裝: Windows 已開始安裝下列更新: 9WZDNCRFJ3P2-MICROSOFT.ZUNEVIDEO
+資訊,2025/6/26 下午 10:18:10,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.ZuneVideo_10.25051.10031.0_x64__8wekyb3d8bbwe\ActivationStore.dat 中的存取歷程記錄，更新了 0 個機碼並建立了 0 個修改的頁面。
+資訊,2025/6/26 下午 10:18:03,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:03,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:03,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:18:03,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:17:58,Microsoft-Windows-WindowsUpdateClient,19,Windows Update 代理程式,安裝成功: Windows 已順利安裝下列更新: 9WZDNCRFJBMP-MICROSOFT.WINDOWSSTORE
+資訊,2025/6/26 下午 10:17:58,Microsoft-Windows-WindowsUpdateClient,43,Windows Update 代理程式,已開始安裝: Windows 已開始安裝下列更新: 9WZDNCRFJBMP-MICROSOFT.WINDOWSSTORE
+資訊,2025/6/26 下午 10:17:57,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsStore_22505.1401.17.0_x64__8wekyb3d8bbwe\ActivationStore.dat 中的存取歷程記錄，更新了 0 個機碼並建立了 0 個修改的頁面。
+資訊,2025/6/26 下午 10:17:40,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+錯誤,2025/6/26 下午 10:17:35,Microsoft-Windows-WindowsUpdateClient,20,Windows Update 代理程式,安裝失敗: Windows 無法安裝下列更新，錯誤 0x80073D02: 9NBLGGH4NNS1-Microsoft.DesktopAppInstaller。
+資訊,2025/6/26 下午 10:17:34,Microsoft-Windows-WindowsUpdateClient,43,Windows Update 代理程式,已開始安裝: Windows 已開始安裝下列更新: 9NBLGGH4NNS1-Microsoft.DesktopAppInstaller
+資訊,2025/6/26 下午 10:17:34,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:17:34,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:17:34,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:17:34,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.DesktopAppInstaller_1.26.400.0_x64__8wekyb3d8bbwe\ActivationStore.dat 中的存取歷程記錄，更新了 0 個機碼並建立了 0 個修改的頁面。
+資訊,2025/6/26 下午 10:17:30,Microsoft-Windows-WindowsUpdateClient,19,Windows Update 代理程式,安裝成功: Windows 已順利安裝下列更新: 9NHT9RB2F4HD-Microsoft.Copilot
+資訊,2025/6/26 下午 10:17:30,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.Copilot_8wekyb3d8bbwe\Settings\settings.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:17:30,Microsoft-Windows-WindowsUpdateClient,43,Windows Update 代理程式,已開始安裝: Windows 已開始安裝下列更新: 9NHT9RB2F4HD-Microsoft.Copilot
+資訊,2025/6/26 下午 10:17:29,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Copilot_1.25062.106.0_x64__8wekyb3d8bbwe\ActivationStore.dat 中的存取歷程記錄，更新了 0 個機碼並建立了 0 個修改的頁面。
+資訊,2025/6/26 下午 10:17:12,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:17:12,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:17:12,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+錯誤,2025/6/26 下午 10:17:07,Microsoft-Windows-WindowsUpdateClient,20,Windows Update 代理程式,安裝失敗: Windows 無法安裝下列更新，錯誤 0x80073D02: 9NMPJ99VJBWV-Microsoft.YourPhone。
+資訊,2025/6/26 下午 10:17:06,Microsoft-Windows-WindowsUpdateClient,43,Windows Update 代理程式,已開始安裝: Windows 已開始安裝下列更新: 9NMPJ99VJBWV-Microsoft.YourPhone
+資訊,2025/6/26 下午 10:17:05,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.YourPhone_1.25052.76.0_x64__8wekyb3d8bbwe\ActivationStore.dat 中的存取歷程記錄，更新了 0 個機碼並建立了 0 個修改的頁面。
+資訊,2025/6/26 下午 10:16:44,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:16:39,Microsoft-Windows-WindowsUpdateClient,19,Windows Update 代理程式,安裝成功: Windows 已順利安裝下列更新: 9NBLGGH4LS1F-Microsoft.StorePurchaseApp
+資訊,2025/6/26 下午 10:16:38,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.StorePurchaseApp_8wekyb3d8bbwe\Settings\settings.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:16:38,Microsoft-Windows-WindowsUpdateClient,43,Windows Update 代理程式,已開始安裝: Windows 已開始安裝下列更新: 9NBLGGH4LS1F-Microsoft.StorePurchaseApp
+資訊,2025/6/26 下午 10:16:37,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.StorePurchaseApp_22505.1401.0.0_x64__8wekyb3d8bbwe\ActivationStore.dat 中的存取歷程記錄，更新了 0 個機碼並建立了 0 個修改的頁面。
+資訊,2025/6/26 下午 10:16:36,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:16:36,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:16:36,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+錯誤,2025/6/26 下午 10:16:34,Microsoft-Windows-WindowsUpdateClient,20,Windows Update 代理程式,安裝失敗: Windows 無法安裝下列更新，錯誤 0x80073D02: 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice。
+資訊,2025/6/26 下午 10:16:34,Microsoft-Windows-Ntfs,98,無,磁碟區 ?? (\Device\HarddiskVolumeShadowCopy3) 的健康情況良好。不需要採取任何動作。
+資訊,2025/6/26 下午 10:16:34,Microsoft-Windows-WindowsUpdateClient,43,Windows Update 代理程式,已開始安裝: Windows 已開始安裝下列更新: 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice
+資訊,2025/6/26 下午 10:16:26,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.CrossDevice_1.25052.36.0_x64__cw5n1h2txyewy\ActivationStore.dat 中的存取歷程記錄，更新了 0 個機碼並建立了 0 個修改的頁面。
+資訊,2025/6/26 下午 10:16:05,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:16:05,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:16:05,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:16:01,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:15:51,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:15:51,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:15:51,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:15:27,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:15:27,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:15:27,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:15:27,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+資訊,2025/6/26 下午 10:15:27,Microsoft-Windows-WindowsUpdateClient,44,Windows Update 代理程式,Windows Update 已開始下載更新。
+警告,2025/6/26 下午 10:15:00,Microsoft-Windows-DistributedCOM,10016,無,"應用程式特定 權限設定無法將含有 CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ 與 APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ 之 COM 伺服器應用程式的 本機 啟用 權限授與來自位址 LocalHost (使用 LRPC) (在應用程式容器 無法使用 SID (無法使用) 中執行) 的使用者 DESKTOP-UE31B9Q\sobel SID (S-1-5-21-3066462119-231999793-920245347-1001)。您可以使用元件服務系統管理工具修改此安全性權限。"
+資訊,2025/6/26 下午 10:14:59,Microsoft-Windows-HttpService,114,HTTP Configuration Property Trace Task,已從 URL 群組 (0xFE00000420000007) 移除 URL (http://*:2869/upnp/eventing/)。處理常式標識0x3698可執行檔路徑 \Device\HarddiskVolume3\Windows\System32\svchost.exe，使用者 LOCAL SERVICE
+資訊,2025/6/26 下午 10:14:59,Microsoft-Windows-HttpService,113,HTTP Configuration Property Trace Task,已嘗試將 URL (http://*:2869/upnp/eventing/)新增至 URL 群組 (0xFE00000420000007)。狀態： 0x0。處理常式標識0x3698可執行檔路徑 \Device\HarddiskVolume3\Windows\System32\svchost.exe，使用者 LOCAL SERVICE
+資訊,2025/6/26 下午 10:14:56,Microsoft-Windows-HttpService,114,HTTP Configuration Property Trace Task,已從 URL 群組 (0xFE00000A20000002) 移除 URL (http://*:2869/upnp/eventing/)。處理常式標識0x3698可執行檔路徑 \Device\HarddiskVolume3\Windows\System32\svchost.exe，使用者 LOCAL SERVICE
+資訊,2025/6/26 下午 10:14:56,Microsoft-Windows-HttpService,113,HTTP Configuration Property Trace Task,已嘗試將 URL (http://*:2869/upnp/eventing/)新增至 URL 群組 (0xFE00000A20000002)。狀態： 0x0。處理常式標識0x3698可執行檔路徑 \Device\HarddiskVolume3\Windows\System32\svchost.exe，使用者 LOCAL SERVICE
+資訊,2025/6/26 下午 10:14:47,Microsoft-Windows-HttpService,114,HTTP Configuration Property Trace Task,已從 URL 群組 (0xFE00000020000017) 移除 URL (http://*:2869/upnp/eventing/)。處理常式標識0x3698可執行檔路徑 \Device\HarddiskVolume3\Windows\System32\svchost.exe，使用者 LOCAL SERVICE
+資訊,2025/6/26 下午 10:14:47,Microsoft-Windows-HttpService,113,HTTP Configuration Property Trace Task,已嘗試將 URL (http://*:2869/upnp/eventing/)新增至 URL 群組 (0xFE00000020000017)。狀態： 0x0。處理常式標識0x3698可執行檔路徑 \Device\HarddiskVolume3\Windows\System32\svchost.exe，使用者 LOCAL SERVICE
+資訊,2025/6/26 下午 10:14:01,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\WINDOWS\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\State\dosvcState.dat 中的存取歷程記錄，更新了 4 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:13:56,Service Control Manager,7040,無,Background Intelligent Transfer Service 服務的啟動類型已從 指定啟動 變更為 自動啟動。
+警告,2025/6/26 下午 10:12:38,Microsoft-Windows-DistributedCOM,10016,無,"應用程式特定 權限設定無法將含有 CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ 與 APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ 之 COM 伺服器應用程式的 本機 啟用 權限授與來自位址 LocalHost (使用 LRPC) (在應用程式容器 無法使用 SID (無法使用) 中執行) 的使用者 DESKTOP-UE31B9Q\sobel SID (S-1-5-21-3066462119-231999793-920245347-1001)。您可以使用元件服務系統管理工具修改此安全性權限。"
+警告,2025/6/26 下午 10:12:35,Microsoft-Windows-DistributedCOM,10016,無,"應用程式特定 權限設定無法將含有 CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ 與 APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ 之 COM 伺服器應用程式的 本機 啟用 權限授與來自位址 LocalHost (使用 LRPC) (在應用程式容器 無法使用 SID (無法使用) 中執行) 的使用者 DESKTOP-UE31B9Q\sobel SID (S-1-5-21-3066462119-231999793-920245347-1001)。您可以使用元件服務系統管理工具修改此安全性權限。"
+資訊,2025/6/26 下午 10:10:59,Service Control Manager,7040,無,Background Intelligent Transfer Service 服務的啟動類型已從 自動啟動 變更為 指定啟動。
+資訊,2025/6/26 下午 10:10:52,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\Settings\settings.dat 中的存取歷程記錄，更新了 16 個機碼並建立了 3 個修改的頁面。
+資訊,2025/6/26 下午 10:10:52,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\Settings\settings.dat 中的存取歷程記錄，更新了 27 個機碼並建立了 4 個修改的頁面。
+資訊,2025/6/26 下午 10:10:24,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\B9ECED6F.ArmouryCrate_qmba6cd70vzyy\Settings\settings.dat 中的存取歷程記錄，更新了 32 個機碼並建立了 4 個修改的頁面。
+資訊,2025/6/26 下午 10:10:19,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Settings\settings.dat 中的存取歷程記錄，更新了 337 個機碼並建立了 31 個修改的頁面。
+資訊,2025/6/26 下午 10:09:39,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\MicrosoftWindows.CrossDevice_cw5n1h2txyewy\Settings\settings.dat 中的存取歷程記錄，更新了 38 個機碼並建立了 5 個修改的頁面。
+資訊,2025/6/26 下午 10:09:38,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Packages\MicrosoftWindows.CrossDevice_cw5n1h2txyewy\S-1-5-21-3066462119-231999793-920245347-1001\SystemAppData\Helium\Cache\77613d365ac5ace9_COM15.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:09:38,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\MicrosoftWindows.CrossDevice_cw5n1h2txyewy\SystemAppData\Helium\UserClasses.dat 中的存取歷程記錄，更新了 6 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:09:38,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\MicrosoftWindows.CrossDevice_cw5n1h2txyewy\SystemAppData\Helium\User.dat 中的存取歷程記錄，更新了 9 個機碼並建立了 3 個修改的頁面。
+資訊,2025/6/26 下午 10:09:37,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Packages\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_0a9344xs7nr4m\S-1-5-21-3066462119-231999793-920245347-1001\SystemAppData\Helium\Cache\878ceb8629a07e5b_COM15.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:09:37,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_0a9344xs7nr4m\SystemAppData\Helium\UserClasses.dat 中的存取歷程記錄，更新了 13 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:09:37,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_0a9344xs7nr4m\SystemAppData\Helium\User.dat 中的存取歷程記錄，更新了 39 個機碼並建立了 4 個修改的頁面。
+資訊,2025/6/26 下午 10:09:28,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\Settings\settings.dat 中的存取歷程記錄，更新了 2 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:09:28,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\S-1-5-21-3066462119-231999793-920245347-1001\SystemAppData\Helium\Cache\b9f06e432449c527_COM15.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:09:27,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Microsoft\VisualStudio\17.0_61533723\privateregistry.bin 中的存取歷程記錄，更新了 8 個機碼並建立了 3 個修改的頁面。
+資訊,2025/6/26 下午 10:09:18,Microsoft-Windows-Kernel-General,15,(10),登錄區 \??\C:\WINDOWS\System32\SMI\Store\Machine\schema.dat 已重新組織為開始大小為 10772480 個位元組且結束大小為 10752000 個位元組。
+警告,2025/6/26 下午 10:09:17,Microsoft-Windows-DistributedCOM,10016,無,"應用程式特定 權限設定無法將含有 CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ 與 APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ 之 COM 伺服器應用程式的 本機 啟用 權限授與來自位址 LocalHost (使用 LRPC) (在應用程式容器 無法使用 SID (無法使用) 中執行) 的使用者 DESKTOP-UE31B9Q\sobel SID (S-1-5-21-3066462119-231999793-920245347-1001)。您可以使用元件服務系統管理工具修改此安全性權限。"
+錯誤,2025/6/26 下午 10:09:13,Service Control Manager,7011,無,等候 WSLService 服務的交易回應時發生逾時 (30000 毫秒)。
+資訊,2025/6/26 下午 10:09:13,Microsoft-Windows-Hyper-V-VmSwitch,71,無,埠 172282F4-3877-424B-8B1C-DD6822A94892 (易記名稱: 172282F4-3877-424B-8B1C-DD6822A94892) 刪除完成。
+資訊,2025/6/26 下午 10:09:13,Microsoft-Windows-Hyper-V-VmSwitch,69,無,埠 172282F4-3877-424B-8B1C-DD6822A94892 (易記名稱: 172282F4-3877-424B-8B1C-DD6822A94892) 已順利刪除 - 交換器 790E58B4-7939-4434-9358-89AE7DDBE87E (易記名稱: WSL (Hyper-V firewall))。
+資訊,2025/6/26 下午 10:09:13,Microsoft-Windows-Hyper-V-VmSwitch,233,無,作業「Delete」在 nic ED87A370-D4D0-4E17-8F3C-3BB0E95EF482--172282F4-3877-424B-8B1C-DD6822A94892 (易記名稱：) 上已成功，其執行個體識別碼 {00000000-0000-0000-0000-000000000000}。
+資訊,2025/6/26 下午 10:09:13,Microsoft-Windows-Hyper-V-VmSwitch,234,無,NIC ED87A370-D4D0-4E17-8F3C-3BB0E95EF482--172282F4-3877-424B-8B1C-DD6822A94892 successfully disconnected from port .
+資訊,2025/6/26 下午 10:09:13,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \SystemRoot\System32\config\DRIVERS 中的存取歷程記錄，更新了 1071 個機碼並建立了 126 個修改的頁面。
+資訊,2025/6/26 下午 10:09:00,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\S-1-5-21-3066462119-231999793-920245347-1001\SystemAppData\Helium\Cache\d6a8ed50f7afd779_COM15.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:09:00,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\SystemAppData\Helium\User.dat 中的存取歷程記錄，更新了 10 個機碼並建立了 2 個修改的頁面。
+資訊,2025/6/26 下午 10:09:00,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.YourPhone_8wekyb3d8bbwe\Settings\settings.dat 中的存取歷程記錄，更新了 53 個機碼並建立了 10 個修改的頁面。
+資訊,2025/6/26 下午 10:08:57,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\Settings\settings.dat 中的存取歷程記錄，更新了 6 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:08:57,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Settings\settings.dat 中的存取歷程記錄，更新了 5 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:08:57,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Packages\Microsoft.WidgetsPlatformRuntime_8wekyb3d8bbwe\S-1-5-21-3066462119-231999793-920245347-1001\SystemAppData\Helium\Cache\89bc9879cd777c28_COM15.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:08:57,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.WidgetsPlatformRuntime_8wekyb3d8bbwe\SystemAppData\Helium\UserClasses.dat 中的存取歷程記錄，更新了 12 個機碼並建立了 3 個修改的頁面。
+資訊,2025/6/26 下午 10:08:57,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.WidgetsPlatformRuntime_8wekyb3d8bbwe\SystemAppData\Helium\User.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:08:57,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\Settings\settings.dat 中的存取歷程記錄，更新了 10 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:08:56,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Settings\settings.dat 中的存取歷程記錄，更新了 18 個機碼並建立了 6 個修改的頁面。
+資訊,2025/6/26 下午 10:08:56,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\ProgramData\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\S-1-5-21-3066462119-231999793-920245347-1001\SystemAppData\Helium\Cache\2949f22fc3f6f7e_COM15.dat 中的存取歷程記錄，更新了 1 個機碼並建立了 1 個修改的頁面。
+資訊,2025/6/26 下午 10:08:56,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\SystemAppData\Helium\UserClasses.dat 中的存取歷程記錄，更新了 15 個機碼並建立了 2 個修改的頁面。
+資訊,2025/6/26 下午 10:08:56,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\SystemAppData\Helium\User.dat 中的存取歷程記錄，更新了 27 個機碼並建立了 3 個修改的頁面。
+資訊,2025/6/26 下午 10:08:54,Microsoft-Windows-Power-Troubleshooter,1,無,"系統已從低電源狀態回復。
+
+睡眠時間: ‎2025‎-‎06‎-‎21T15:57:36.893700000Z
+喚醒時間: ‎2025‎-‎06‎-‎26T14:08:53.620896100Z
+
+喚醒來源: Unknown"
+警告,2025/6/26 下午 10:08:54,Microsoft-Windows-DistributedCOM,10016,無,"應用程式特定 權限設定無法將含有 CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ 與 APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ 之 COM 伺服器應用程式的 本機 啟用 權限授與來自位址 LocalHost (使用 LRPC) (在應用程式容器 無法使用 SID (無法使用) 中執行) 的使用者 NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19)。您可以使用元件服務系統管理工具修改此安全性權限。"
+警告,2025/6/26 下午 10:08:54,Microsoft-Windows-DistributedCOM,10016,無,"應用程式特定 權限設定無法將含有 CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ 與 APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ 之 COM 伺服器應用程式的 本機 啟用 權限授與來自位址 LocalHost (使用 LRPC) (在應用程式容器 無法使用 SID (無法使用) 中執行) 的使用者 NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19)。您可以使用元件服務系統管理工具修改此安全性權限。"
+警告,2025/6/26 下午 10:08:54,Microsoft-Windows-DistributedCOM,10016,無,"應用程式特定 權限設定無法將含有 CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ 與 APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ 之 COM 伺服器應用程式的 本機 啟用 權限授與來自位址 LocalHost (使用 LRPC) (在應用程式容器 無法使用 SID (無法使用) 中執行) 的使用者 NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19)。您可以使用元件服務系統管理工具修改此安全性權限。"
+警告,2025/6/26 下午 10:08:54,Microsoft-Windows-DistributedCOM,10016,無,"應用程式特定 權限設定無法將含有 CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ 與 APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ 之 COM 伺服器應用程式的 本機 啟用 權限授與來自位址 LocalHost (使用 LRPC) (在應用程式容器 無法使用 SID (無法使用) 中執行) 的使用者 NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19)。您可以使用元件服務系統管理工具修改此安全性權限。"
+資訊,2025/6/26 下午 10:08:54,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\Users\sobel\AppData\Local\Microsoft\Windows\UsrClass.dat 中的存取歷程記錄，更新了 4012 個機碼並建立了 529 個修改的頁面。
+資訊,2025/6/26 下午 10:08:54,Microsoft-Windows-Kernel-General,15,(10),登錄區 \??\C:\Users\sobel\ntuser.dat 已重新組織為開始大小為 12267520 個位元組且結束大小為 11923456 個位元組。
+資訊,2025/6/26 下午 10:08:54,Microsoft-Windows-Winlogon,7001,(1101),客戶經驗改進計畫的使用者登入通知
+資訊,2025/6/26 下午 10:08:53,Service Control Manager,7040,無,Background Intelligent Transfer Service 服務的啟動類型已從 指定啟動 變更為 自動啟動。
+資訊,2025/6/26 下午 10:08:53,Microsoft-Windows-Time-Service,37,無,"時間提供者 NtpClient 目前接收從 time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->20.189.79.72:123) 正確的時間資料。"
+資訊,2025/6/26 下午 10:08:53,Microsoft-Windows-Time-Service,158,無,時間提供者 'VMICTimeProvider' 指出目前的硬體與作業環境不受支援且已停止。對於非 HyperV 客體環境上的 VMICTimeProvider，這是預期的行為。對於目前作業環境中的目前提供者，這可能也是預期的行為。
+資訊,2025/6/26 下午 10:08:53,Microsoft-Windows-Kernel-Power,566,(268),"系統會話已從10轉換為 12.
+
+BootId： 23  Unknown 
+
+原因"
+資訊,2025/6/26 下午 10:08:53,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \Device\HarddiskVolume1\EFI\Microsoft\Boot\BCD 中的存取歷程記錄，更新了 91 個機碼並建立了 10 個修改的頁面。
+資訊,2025/6/26 下午 10:08:53,VfpExt,7036,無, 服務已進入 Filter restart complete 狀態。
+資訊,2025/6/26 下午 10:08:53,VfpExt,7036,無, 服務已進入 Filter restart start 狀態。
+資訊,2025/6/26 下午 10:08:53,VfpExt,7036,無, 服務已進入 Filter attach complete 狀態。
+資訊,2025/6/26 下午 10:08:53,VfpExt,7036,無, 服務已進入 Filter attach start 狀態。
+資訊,2025/6/26 下午 10:08:53,Microsoft-Windows-Kernel-Power,566,(268),"系統會話已從9轉換為 10.
+
+BootId： 23  SxTransition 
+
+原因"
+資訊,2025/6/26 下午 10:08:53,Microsoft-Windows-Kernel-Boot,247,(99),"無法載入 Pluton-Windows 韌體。StatusCode: STATUS_SUCCESS, 原因: Failed to apply firmware."
+資訊,2025/6/26 下午 10:08:53,Microsoft-Windows-Kernel-Boot,27,(33),開機類型為 0x1。
+資訊,2025/6/26 下午 10:08:53,Microsoft-Windows-Kernel-Boot,25,(32),開機功能表原則為 0x1。
+資訊,2025/6/26 下午 10:08:53,Microsoft-Windows-Kernel-Boot,32,(58),bootmgr 花了 0 毫秒的時間等候使用者輸入。
+資訊,2025/6/26 下午 10:08:53,Microsoft-Windows-Kernel-Boot,18,(57),此系統上有 0x1 個開機選項。
+資訊,2025/6/26 下午 10:08:53,Microsoft-Windows-Kernel-Boot,30,(21),韌體已回報開機衡量標準。
+資訊,2025/6/26 下午 10:08:52,Microsoft-Windows-TPM-WMI,1038,無,"預先證明健康情況檢查確認裝置必須通過證明。
+ 如需檢查內容的詳細資訊，請參閱 C:\WINDOWS\Logs\MeasuredBoot\0000000054-0000000003.json。"
+資訊,2025/6/26 下午 10:08:52,Microsoft-Windows-TPM-WMI,1041,無,"預先證明健康情況檢查詳細資訊: {""Version"":1,""HealthStatus"":""Attestable"",""Required"":[{""Field"":""TpmPresent"",""Value"":true,""DesiredValue"":true},{""Field"":""TpmMeetsMinimumVersion"",""Value"":true,""DesiredValue"":true},{""Field"":""TpmIsResponsive"",""Value"":true,""DesiredValue"":true},{""Field"":""EkCertIsAvailable"",""Value"":true,""DesiredValue"":true},{""Field"":""TcgLogFound"",""Value"":true,""DesiredValue"":true}],""Expected"":[{""Field"":""PcrsMatchTcgLog"",""Value"":true,""DesiredValue"":true}],""Informational"":[{""Field"":""SecureBootEnabled"",""ValueFromComputer"":false,""ValueFromTcgLog"":false,""DesiredValue"":true,""TcgValueIsVerifiable"":true},{""Field"":""VirtualSecureMemory"",""ValueFromComputer"":false,""ValueFromTcgLog"":false,""DesiredValue"":true,""TcgValueIsVerifiable"":true},{""Field"":""SecureCorePCCompliant"",""ValueFromComputer"":false,""ValueFromTcgLog"":false,""DesiredValue"":true,""TcgValueIsVerifiable"":true}]}"
+資訊,2025/6/26 下午 10:08:50,Microsoft-Windows-Kernel-General,16,無,已清除登錄區 \??\C:\WINDOWS\System32\config\COMPONENTS 中的存取歷程記錄，更新了 105308 個機碼並建立了 11144 個修改的頁面。
+資訊,2025/6/26 下午 10:08:48,BTHUSB,18,無,Windows 無法在本機介面卡上儲存藍牙驗證碼 (連結金鑰)。啟動時，藍牙鍵盤可能無法在系統 BIOS 中運作。
+錯誤,2025/6/26 下午 10:08:47,Microsoft-Windows-TPM-WMI,1796,無,安全開機更新無法更新安全開機變數，錯誤 此電腦未啟用安全開機。。如需詳細資訊，請參閱 https://go.microsoft.com/fwlink/?linkid=2169931
+資訊,2025/6/26 下午 10:08:46,Microsoft-Windows-Kernel-General,1,(5),"系統時間已從 ‎2025‎-‎06‎-‎21T15:57:39.800615600Z 變更為 ‎2025‎-‎06‎-‎26T14:08:46.500000000Z。
+Time Delta: 425466699 ms
+
+變更原因：System time synchronized with the hardware clock。
+處理常式：'' (PID 4)。
+
+RTC 時間：‎2025‎-‎06‎-‎26T22:08:46.500000000Z
+目前時區偏差： -480
+RTC 時間是 UTC：false
+系統時間是依據 RTC 時間而建立：false"
+資訊,2025/6/26 下午 10:08:47,EventLog,6013,無,系統執行時間是 511395 秒。

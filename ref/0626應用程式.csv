@@ -1,0 +1,1215 @@
+﻿等級,日期和時間,來源,事件識別碼,工作類別
+警告,2025/6/26 下午 11:59:13,MouseWithoutBordersHelper,0,無,"GetClipboardText: TXT = 4, RTF = 0, HTM = 0."
+資訊,2025/6/26 下午 11:33:44,Microsoft-Windows-Security-SPP,16384,無,順利排程軟體保護服務在 2125-06-02T15:33:44Z 重新啟動。原因: RulesEngine。
+資訊,2025/6/26 下午 11:33:14,Microsoft-Windows-Security-SPP,16394,無,離線舊版移轉成功。
+資訊,2025/6/26 下午 11:31:18,Microsoft-Windows-Security-SPP,16384,無,順利排程軟體保護服務在 2125-06-02T15:31:18Z 重新啟動。原因: RulesEngine。
+資訊,2025/6/26 下午 11:30:48,Microsoft-Windows-Security-SPP,16394,無,離線舊版移轉成功。
+資訊,2025/6/26 下午 10:51:46,Microsoft-Windows-Security-SPP,16384,無,順利排程軟體保護服務在 2125-06-02T14:51:46Z 重新啟動。原因: RulesEngine。
+資訊,2025/6/26 下午 10:51:15,Microsoft-Windows-Security-SPP,16394,無,離線舊版移轉成功。
+資訊,2025/6/26 下午 10:50:05,VSS,8224,無,VSS 服務關閉，因為閒置逾時。 
+資訊,2025/6/26 下午 10:47:29,Microsoft-Windows-RestartManager,10001,無,正在結束工作階段 4 已啟動 ‎2025‎-‎06‎-‎26T14:42:32.146730000Z。
+警告,2025/6/26 下午 10:47:05,Microsoft-Windows-System-Restore,8303,無,Scoping unsuccessful for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy4 with error 0x81000207.
+資訊,2025/6/26 下午 10:47:05,Microsoft-Windows-System-Restore,8301,無,Scoping completed for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy4.
+資訊,2025/6/26 下午 10:46:46,Microsoft-Windows-System-Restore,8300,無,Scoping started for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy4.
+資訊,2025/6/26 下午 10:46:40,System Restore,8212,無,已成功建立排定的還原點。
+資訊,2025/6/26 下午 10:46:40,System Restore,8194,無,已成功建立還原點 (處理程序 = C:\WINDOWS\system32\srtasks.exe ExecuteScheduledSPPCreation; 描述 = 排定的檢查點)。
+錯誤,2025/6/26 下午 10:45:28,Microsoft-Windows-Defrag,264,無,由於: 由於不支援檔案系統類型，無法優化磁碟區。 (0x8900002F)，儲存體最佳化工具無法在 Ventoy (V:) 上完成 磁碟重組
+資訊,2025/6/26 下午 10:45:28,Microsoft-Windows-Defrag,258,無,存放裝置最佳化工具已成功於 (C:) 完成 磁碟重組
+資訊,2025/6/26 下午 10:45:28,Microsoft-Windows-Defrag,258,無,存放裝置最佳化工具已成功於 (C:) 完成 重新修剪
+資訊,2025/6/26 下午 10:43:03,Microsoft-Windows-Defrag,258,無,存放裝置最佳化工具已成功於 新增磁碟區 (D:) 完成 磁碟重組
+資訊,2025/6/26 下午 10:43:03,Microsoft-Windows-Defrag,258,無,存放裝置最佳化工具已成功於 新增磁碟區 (D:) 完成 重新修剪
+資訊,2025/6/26 下午 10:42:32,Microsoft-Windows-RestartManager,10000,無,正在開始工作階段 4 - ‎2025‎-‎06‎-‎26T14:42:32.146730000Z。
+資訊,2025/6/26 下午 10:42:30,Microsoft-Windows-RestartManager,10001,無,正在結束工作階段 4 已啟動 ‎2025‎-‎06‎-‎26T14:42:26.231590500Z。
+資訊,2025/6/26 下午 10:42:26,Microsoft-Windows-RestartManager,10000,無,正在開始工作階段 4 - ‎2025‎-‎06‎-‎26T14:42:26.231590500Z。
+警告,2025/6/26 下午 10:38:09,MouseWithoutBordersHelper,0,無,"GetClipboardText: TXT = 4, RTF = 0, HTM = 422."
+警告,2025/6/26 下午 10:38:05,MouseWithoutBordersHelper,0,無,"GetClipboardText: TXT = 6, RTF = 0, HTM = 424."
+警告,2025/6/26 下午 10:37:35,MouseWithoutBordersHelper,0,無,"GetClipboardText: TXT = 3, RTF = 0, HTM = 421."
+警告,2025/6/26 下午 10:37:03,MouseWithoutBordersHelper,0,無,"GetClipboardText: TXT = 235, RTF = 0, HTM = 8655."
+警告,2025/6/26 下午 10:35:45,MouseWithoutBordersHelper,0,無,"GetClipboardText: TXT = 6, RTF = 0, HTM = 424."
+資訊,2025/6/26 下午 10:34:54,Microsoft-Windows-Defrag,264,無,由於: 使用者取消操作。 (0x89000006)，儲存體最佳化工具無法在 (C:) 上完成 磁碟重組
+資訊,2025/6/26 下午 10:31:34,Microsoft-Windows-Defrag,258,無,存放裝置最佳化工具已成功於 新增磁碟區 (D:) 完成 磁碟重組
+資訊,2025/6/26 下午 10:31:34,Microsoft-Windows-Defrag,258,無,存放裝置最佳化工具已成功於 新增磁碟區 (D:) 完成 重新修剪
+資訊,2025/6/26 下午 10:31:24,SecurityCenter,15,無,已順利將 Windows Defender 狀態更新為 SECURITY_PRODUCT_STATE_ON。
+資訊,2025/6/26 下午 10:31:22,SecurityCenter,15,無,已順利將 Windows Defender 狀態更新為 SECURITY_PRODUCT_STATE_ON。
+資訊,2025/6/26 下午 10:31:13,Microsoft-Windows-RestartManager,10000,無,正在開始工作階段 4 - ‎2025‎-‎06‎-‎26T14:31:13.586861700Z。
+資訊,2025/6/26 下午 10:31:12,Microsoft-Windows-RestartManager,10001,無,正在結束工作階段 4 已啟動 ‎2025‎-‎06‎-‎26T14:30:59.331425500Z。
+資訊,2025/6/26 下午 10:30:59,Microsoft-Windows-RestartManager,10000,無,正在開始工作階段 4 - ‎2025‎-‎06‎-‎26T14:30:59.331425500Z。
+資訊,2025/6/26 下午 10:29:49,Microsoft-Windows-Security-SPP,16384,無,順利排程軟體保護服務在 2125-06-02T14:29:49Z 重新啟動。原因: RulesEngine。
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1033,無,"這些原則已被排除，因為它們僅定義為僅覆寫屬性。
+原則名稱=(Security-SPP-Reserved-EnableNotificationMode) 
+應用程式識別碼=55c92734-d682-4d71-983e-d6ec3f16059f
+SKU 識別碼=4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c"
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=Security-SPP-WriteWauMarker  優先順序=500
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=AAD-AddDeviceJoinUserToAdminGroup-Policy  優先順序=100
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=AAD-AddDeviceJoinUserToAdminGroup-Policy  優先順序=100
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=AAD-AddDeviceJoinUserToAdminGroup-Policy  優先順序=100
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=AAD-AddDeviceJoinUserToAdminGroup-Policy  優先順序=100
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=AAD-AddDeviceJoinUserToAdminGroup-Policy  優先順序=100
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=AAD-AddDeviceJoinUserToAdminGroup-Policy  優先順序=100
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=AAD-AddDeviceJoinUserToAdminGroup-Policy  優先順序=100
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=AAD-AddDeviceJoinUserToAdminGroup-Policy  優先順序=100
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=AAD-AddDeviceJoinUserToAdminGroup-Policy  優先順序=100
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=AAD-AddDeviceJoinUserToAdminGroup-Policy  優先順序=100
+資訊,2025/6/26 下午 10:29:19,Microsoft-Windows-Security-SPP,1034,無,找到重複的原則定義。原則名稱=AAD-AddDeviceJoinUserToAdminGroup-Policy  優先順序=100
+資訊,2025/6/26 下午 10:29:18,Microsoft-Windows-Security-SPP,16394,無,離線舊版移轉成功。
+資訊,2025/6/26 下午 10:21:39,VSS,8224,無,VSS 服務關閉，因為閒置逾時。 
+資訊,2025/6/26 下午 10:20:29,Windows Error Reporting,1001,無,"錯誤容器 1324090614367621693，類型 5
+事件名稱: RADAR_PRE_LEAK_64
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: chrome.exe
+P2: 137.0.7151.120
+P3: 10.0.26100.2.0.0
+P4: 
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\Users\sobel\AppData\Local\Temp\RDRF6D1.tmp\empty.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.96a049d1-52ad-4e7f-8531-b3f10c5322ca.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.06178587-574d-45c1-a8b4-906050fec385.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.61882063-51fb-4350-9638-7561675b6b25.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.1f1f9a10-21d7-49bc-8072-211781e2b3c6.tmp.xml
+
+這些檔案可能在這裡:
+NULL
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: fa08cdc3-a948-47e9-ad34-cd99f2524911
+報告狀態: 268435456
+雜湊化容器: ead83ba99215cfba72601d65ffcf923d
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:19:09,SecurityCenter,15,無,已順利將 Windows Defender 狀態更新為 SECURITY_PRODUCT_STATE_ON。
+資訊,2025/6/26 下午 10:18:39,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package B9ECED6F.ArmouryCrate_6.2.7.0_x64__qmba6cd70vzyy removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\B9ECED6F.ArmouryCrate_qmba6cd70vzyy: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:39,System Restore,8216,無,正在略過建立還原點 (程序 = C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv; 描述 = Windows Update)，因為已有一個對 [系統還原] 而言夠新的還原點可用。
+資訊,2025/6/26 下午 10:18:31,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.ZuneMusic_11.2504.4.0_neutral_split.scale-100_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.ZuneMusic_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:31,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.ZuneMusic_11.2504.4.0_neutral_split.language-zh-hant_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.ZuneMusic_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:31,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.ZuneMusic_11.2504.4.0_neutral_split.language-ja_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.ZuneMusic_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:31,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.ZuneMusic_11.2504.4.0_x64__8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.ZuneMusic_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:30,System Restore,8216,無,正在略過建立還原點 (程序 = C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv; 描述 = Windows Update)，因為已有一個對 [系統還原] 而言夠新的還原點可用。
+資訊,2025/6/26 下午 10:18:30,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.WindowsCamera_2025.2502.17.0_neutral_split.language-ja_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.WindowsCamera_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:30,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.WindowsCamera_2025.2502.17.0_neutral_split.scale-100_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.WindowsCamera_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:30,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.WindowsCamera_2025.2502.17.0_neutral_split.language-zh-hant_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.WindowsCamera_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:30,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.WindowsCamera_2025.2502.17.0_x64__8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.WindowsCamera_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:29,System Restore,8216,無,正在略過建立還原點 (程序 = C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv; 描述 = Windows Update)，因為已有一個對 [系統還原] 而言夠新的還原點可用。
+資訊,2025/6/26 下午 10:18:11,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.ZuneVideo_10.25041.10021.0_neutral_split.language-ja_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.ZuneVideo_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:11,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.ZuneVideo_10.25041.10021.0_neutral_split.scale-100_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.ZuneVideo_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:11,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.ZuneVideo_10.25041.10021.0_neutral_split.language-zh-hant_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.ZuneVideo_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:11,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.ZuneVideo_10.25041.10021.0_x64__8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.ZuneVideo_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:18:10,System Restore,8216,無,正在略過建立還原點 (程序 = C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv; 描述 = Windows Update)，因為已有一個對 [系統還原] 而言夠新的還原點可用。
+資訊,2025/6/26 下午 10:17:58,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.WindowsStore_22504.1401.19.0_x64__8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.WindowsStore_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:17:57,System Restore,8216,無,正在略過建立還原點 (程序 = C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv; 描述 = Windows Update)，因為已有一個對 [系統還原] 而言夠新的還原點可用。
+資訊,2025/6/26 下午 10:17:34,System Restore,8216,無,正在略過建立還原點 (程序 = C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv; 描述 = Windows Update)，因為已有一個對 [系統還原] 而言夠新的還原點可用。
+資訊,2025/6/26 下午 10:17:30,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.Copilot_1.25053.93.0_neutral_split.language-zh-hant_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.Copilot_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:17:30,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.Copilot_1.25053.93.0_neutral_split.language-ja_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.Copilot_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:17:30,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.Copilot_1.25053.93.0_neutral_split.scale-100_8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.Copilot_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:17:30,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.Copilot_1.25053.93.0_x64__8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.Copilot_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:17:30,System Restore,8216,無,正在略過建立還原點 (程序 = C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv; 描述 = Windows Update)，因為已有一個對 [系統還原] 而言夠新的還原點可用。
+資訊,2025/6/26 下午 10:17:06,System Restore,8216,無,正在略過建立還原點 (程序 = C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv; 描述 = Windows Update)，因為已有一個對 [系統還原] 而言夠新的還原點可用。
+警告,2025/6/26 下午 10:16:58,Microsoft-Windows-System-Restore,8303,無,Scoping unsuccessful for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy3 with error 0x81000207.
+資訊,2025/6/26 下午 10:16:58,Microsoft-Windows-System-Restore,8301,無,Scoping completed for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy3.
+資訊,2025/6/26 下午 10:16:56,Microsoft-Windows-Security-SPP,16384,無,順利排程軟體保護服務在 2125-06-02T14:16:56Z 重新啟動。原因: RulesEngine。
+資訊,2025/6/26 下午 10:16:44,Microsoft-Windows-System-Restore,8300,無,Scoping started for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy3.
+資訊,2025/6/26 下午 10:16:38,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.StorePurchaseApp_22504.1401.4.0_x64__8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.StorePurchaseApp_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:16:38,System Restore,8216,無,正在略過建立還原點 (程序 = C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv; 描述 = Windows Update)，因為已有一個對 [系統還原] 而言夠新的還原點可用。
+資訊,2025/6/26 下午 10:16:33,System Restore,8194,無,已成功建立還原點 (處理程序 = C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s wuauserv; 描述 = Windows Update)。
+資訊,2025/6/26 下午 10:16:28,MsiInstaller,1042,無,結束 Windows Installer 交易: c:\program files\microsoft office\root\integration\sppredist.msi. 用戶端處理程序識別碼: 15648.
+資訊,2025/6/26 下午 10:16:26,MsiInstaller,1035,無,Windows Installer 已重新設定該產品。產品名稱: Office 16 Click-to-Run Licensing Component。產品版本: 16.0.18827.20164。產品語言: 0。製造商: Microsoft Corporation。重新設定成功或錯誤狀態: 0。
+資訊,2025/6/26 下午 10:16:26,MsiInstaller,11728,無,Product: Office 16 Click-to-Run Licensing Component -- 已成功設定。
+資訊,2025/6/26 下午 10:16:26,Microsoft-Windows-Security-SPP,1003,無,"軟體保護服務已完成授權狀態檢查。
+應用程式識別碼=0ff1ce15-a989-479d-af46-f275c6370663
+授權狀態=
+1: 149dbce7-a48e-44db-8364-a53386cd4580, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 24fc428e-a37e-4996-ac66-8ea0304a152d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 26b6a7ce-b174-40aa-a114-316aa56ba9fc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 35ec6e0e-2df4-4629-9ee3-d525e806b988, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 3ad61e22-e4fe-497f-bdb1-3e51bd872173, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 46d2c0bd-f912-4ddc-8e67-b90eadc3f83c, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 6e5db8a5-78e6-4953-b793-7422351afe88, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 7984d9ed-81f9-4d50-913d-317ecd863065, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: a8119e32-b17c-4bd3-8950-7d1853f4b412, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: b27b3d00-9a95-4fcd-a0c2-118cbd5e699b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: b6b47040-b38e-4be2-bf6a-dabf0c41540a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: cbecb6f5-da49-4029-be25-5945ac9750b3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+13: dfc5a8b0-e9fd-43f7-b4ca-d63f1e749711, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: e3dacc06-3bc2-4e13-8e59-8e05f3232325, 1, 0 [(0 )(1 )(2 )(3 [0x00000000, 0, 0], [( 6 0xC004F009 10 0)( 1 0x00000000)( 6 0xC004F009 10 0)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)( 11 0x00000000 0xC004F009)])]
+15: e538d623-c066-433d-a6b7-e0708b1fadf7, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: ff02e86c-fef0-4063-b39f-74275cddd7c3, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+資訊,2025/6/26 下午 10:16:26,MsiInstaller,1040,無,開始 Windows Installer 交易: c:\program files\microsoft office\root\integration\sppredist.msi。用戶端處理程序識別碼: 15648。
+資訊,2025/6/26 下午 10:16:25,Microsoft-Windows-Search,1003,搜尋服務,Windows Search 服務已啟動。
+
+資訊,2025/6/26 下午 10:16:25,MsiInstaller,1042,無,結束 Windows Installer 交易: c:\program files\microsoft office\root\integration\c2rint.16.msi. 用戶端處理程序識別碼: 15648.
+資訊,2025/6/26 下午 10:16:25,MsiInstaller,1035,無,Windows Installer 已重新設定該產品。產品名稱: Office 16 Click-to-Run Extensibility Component。產品版本: 16.0.18827.20102。產品語言: 0。製造商: Microsoft Corporation。重新設定成功或錯誤狀態: 0。
+資訊,2025/6/26 下午 10:16:25,MsiInstaller,11728,無,產品: Office 16 Click-to-Run Extensibility Component -- 已成功設定。
+資訊,2025/6/26 下午 10:16:23,MsiInstaller,1040,無,開始 Windows Installer 交易: c:\program files\microsoft office\root\integration\c2rint.16.msi。用戶端處理程序識別碼: 15648。
+資訊,2025/6/26 下午 10:16:19,Microsoft-Windows-Search,1013,搜尋服務,Windows Search 服務已正常停止。
+
+資訊,2025/6/26 下午 10:16:16,Microsoft-Windows-Search,1003,搜尋服務,Windows Search 服務已啟動。
+
+資訊,2025/6/26 下午 10:16:13,Microsoft-Windows-Search,1013,搜尋服務,Windows Search 服務已正常停止。
+
+警告,2025/6/26 下午 10:16:13,Microsoft-Windows-Search,10024,收集程式,篩選主機處理程序 10628 沒有回應，正在強制終止中。
+
+資訊,2025/6/26 下午 10:16:09,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=OfficeDFC5A8B0-E9FD-43F7-B4CA-D63F1E749711 PPD License
+授權識別碼=f7fe38ac-364b-f4bd-7fb9-f893cecfda55"
+資訊,2025/6/26 下午 10:16:09,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=3eb95343-fe3b-4a15-970f-7f403a8f3018"
+資訊,2025/6/26 下午 10:16:09,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=e24d8bfc-84a3-4e90-9bd2-faee48b01126"
+資訊,2025/6/26 下午 10:16:09,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=30434df4-d10e-443f-9f10-a0d4f85a194b"
+資訊,2025/6/26 下午 10:16:09,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=3addec2e-f373-4954-b495-6477426c8060"
+資訊,2025/6/26 下午 10:16:09,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=OfficeE538D623-C066-433D-A6B7-E0708B1FADF7 PPD License
+授權識別碼=ad074621-f7d3-65e0-c284-36b96210175c"
+資訊,2025/6/26 下午 10:16:09,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=393ab367-89a2-4595-b374-0165b581e5e1"
+資訊,2025/6/26 下午 10:16:09,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=8e3fdeb0-dccf-4483-8c8a-f71e430c91fa"
+資訊,2025/6/26 下午 10:16:09,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=86bbef73-dea2-454a-bed9-e8f2c8af4b39"
+資訊,2025/6/26 下午 10:16:09,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=b885db02-cead-4e4b-ba24-7b00e32d2aa6"
+資訊,2025/6/26 下午 10:16:09,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=OfficeB6B47040-B38E-4BE2-BF6A-DABF0C41540A PPD License
+授權識別碼=c6c810c9-be79-8903-dbf9-e042a03d8d28"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=19c58458-f6df-49b1-a7ee-40df658b89ce"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=fa7b5ddd-4ff6-400d-8215-411733027e92"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=27998c70-15b7-4902-abd5-d894a03a50b0"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=d0537409-301d-4ecc-9c9e-039f227d8011"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office26B6A7CE-B174-40AA-A114-316AA56BA9FC PPD License
+授權識別碼=776cd868-053a-1561-adf6-407c43ec688a"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=f96ffbc5-9caf-4e5f-9f85-0c85556640da"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=9c866b81-057f-40de-a626-00f88780fb00"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=d58999dc-ccbc-4ebe-bbf0-b9a56bac0f05"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=c618fcfe-0f5e-48dd-89bf-d61964e36f94"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office46D2C0BD-F912-4DDC-8E67-B90EADC3F83C PPD License
+授權識別碼=903f0d79-fb37-4706-3779-1fb9e17a8fde"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=4e1005ad-7059-40fd-bb67-48e6b731d1c2"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=0e885754-1ab9-442b-b150-5c62d66d9e00"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=efd7acc5-840c-4a5b-bef1-afba4608aae3"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=8701d24b-f0af-42f2-98e8-dc8ba02046ec"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=OfficeFF02E86C-FEF0-4063-B39F-74275CDDD7C3 PPD License
+授權識別碼=3c061f75-c879-76de-a8fd-328709dd9522"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=c9452f2f-1d90-459f-a1a1-459641010e48"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=11b65b29-324f-4f93-a982-1479d2fe8a94"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=a23480e5-ab55-4481-8c0d-c1b1bb3228d1"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=c02ddbaf-6b46-4670-ac37-8a3df12faf00"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office6E5DB8A5-78E6-4953-B793-7422351AFE88 PPD License
+授權識別碼=51998d31-5bbb-2da1-28d0-143d3622a51e"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=1a18c6b5-651b-4aac-81ab-d164ffa02387"
+資訊,2025/6/26 下午 10:16:08,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=70b1229d-9360-4ca8-848d-003b58322cd1"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=17dbc5de-27e9-4e53-9e03-8d6cb6e59c79"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=a04a5b81-ff77-478e-992a-99ed9b73e614"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=OfficeA8119E32-B17C-4BD3-8950-7D1853F4B412 PPD License
+授權識別碼=5030ae0a-fae7-c88e-0803-7856aea4cc5f"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=7076fa7c-4f14-47bf-9e12-cecb495cfd4f"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=8d334dfd-817b-415a-9755-79e2c7af70ef"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=d0adc255-4c78-42c4-8a51-ee4b56700b55"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=c49b644f-a28e-488c-bb24-5a4425840fb8"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=OfficeE3DACC06-3BC2-4E13-8E59-8E05F3232325 PPD License
+授權識別碼=5bdbd507-73c3-5f87-d372-f0e5bb6a31cd"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=d2cbd487-c92b-4918-b6af-ab75a5ba6882"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=cb111526-131c-408d-89a2-2475514e80b8"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=7d5605dd-af09-4f2e-9319-e8898601cc34"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=4b715906-9564-43d9-8e14-bb21fe726e09"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office149DBCE7-A48E-44DB-8364-A53386CD4580 PPD License
+授權識別碼=9dc6cf18-3bdc-6b55-055c-77d5e1c67e08"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=0042b0f8-3469-428c-aff4-29dc986efd59"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=799225a6-654f-4daf-9721-5f400b040f79"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=04d5a4ab-5e3a-4997-b707-97f5470619b3"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=5af7232c-1067-49fb-b3aa-c3407e52ce1d"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office3AD61E22-E4FE-497F-BDB1-3E51BD872173 PPD License
+授權識別碼=32757964-6b92-d375-42e1-fbbd7da16454"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=8b085e63-33b5-47dc-80ed-79674f091a36"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=3c42d53b-20c5-42c6-9279-768cd35aa252"
+資訊,2025/6/26 下午 10:16:07,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=OfficeB27B3D00-9A95-4FCD-A0C2-118CBD5E699B PPD License
+授權識別碼=d25bdc86-1b23-f231-8b98-db36cc3b4b7b"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=b114da48-667a-4ba0-937c-d4dd46887b06"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=10edc725-764f-4bf7-acf0-7d2f9e5858c4"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=8d1d674c-a636-4854-83cc-0ae8816ba7e9"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=fc72d3e7-d4c4-4713-ad73-1a5d58cd0f60"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=OfficeCBECB6F5-DA49-4029-BE25-5945AC9750B3 PPD License
+授權識別碼=62eec107-c849-49d8-d78e-10daa0a5c173"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=eba87059-0da6-4fdc-b697-ef7b8b902278"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=4a4d45fb-ed8b-4815-9ce0-3ce17b8280e4"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=26ebece4-964d-4b64-a8df-388332f40577"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=3be3b4fb-4ce3-4f2f-af08-dd0561848d4d"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office24FC428E-A37E-4996-AC66-8EA0304A152D PPD License
+授權識別碼=5fb7168b-b17b-81fc-a5cd-efac97cde83c"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=65994ac1-76a3-4f38-9ba6-d38a40eae01e"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=eeb991ca-46a5-4e73-be36-8038e67895d3"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=bd8b81cb-c0cb-4e88-9f77-24aac7253eae"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=19e3fd2f-0b02-45f2-b816-a0f868a82685"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office7984D9ED-81F9-4D50-913D-317ECD863065 PPD License
+授權識別碼=2a9a2991-4b78-245f-e862-11366e07a43f"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=efcfae5a-d351-41eb-a8fd-a9cb5767e63a"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=820bf08c-5c79-4704-8f51-29bf83bc726f"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Private)
+授權識別碼=be7a8b41-caa7-441c-b6c2-8dac2f9ec4dc"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 Publishing License (Public)
+授權識別碼=8151f4ee-800d-4732-8ce4-e5874fd427ce"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office35EC6E0E-2DF4-4629-9EE3-D525E806B988 PPD License
+授權識別碼=5acfc3a7-97b1-0683-9c66-fa18579ff15c"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Private)
+授權識別碼=d3f27319-4d8a-4d8f-9b04-100acb88f9f7"
+資訊,2025/6/26 下午 10:16:06,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=Office 16 UL oob License (Public)
+授權識別碼=2bc30cbf-0cce-4c3b-9a2f-596d9937208f"
+資訊,2025/6/26 下午 10:16:05,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=client-issuance-bridge-office Issuance License
+授權識別碼=4d4a5396-01a7-4ae5-9973-b53bb1af5c30"
+資訊,2025/6/26 下午 10:16:05,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=client-issuance-root-bridge-test Issuance License
+授權識別碼=7256a55f-e989-4e06-b2c2-c527f49e4527"
+資訊,2025/6/26 下午 10:16:05,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=client-issuance-ul-oob Issuance License
+授權識別碼=7209e8e3-cce2-49dd-8f6e-2cc8a611f202"
+資訊,2025/6/26 下午 10:16:05,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=client-issuance-ul Issuance License
+授權識別碼=ce939c0e-53f7-4011-a286-78b6975fa5f0"
+資訊,2025/6/26 下午 10:16:05,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=client-issuance-stil Issuance License
+授權識別碼=285583cd-fc43-4806-ace6-d247b7edd434"
+資訊,2025/6/26 下午 10:16:05,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=client-issuance-root Issuance License
+授權識別碼=7cbeb41c-1778-47f2-aa36-51a5a618f716"
+資訊,2025/6/26 下午 10:16:05,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=XrML 2.1 License - Product Key Configuration
+授權識別碼=dc6454b3-ceba-4e40-b6cc-26afb8fe8fa6"
+資訊,2025/6/26 下午 10:16:05,Microsoft-Windows-Security-SPP,1004,無,"軟體保護服務已成功安裝授權。
+授權標題=XrML 2.1 License - Product Key Configuration
+授權識別碼=6040a6e7-445d-4609-b6c4-8a66b709cb54"
+資訊,2025/6/26 下午 10:16:04,Microsoft-Windows-RestartManager,10000,無,正在開始工作階段 0 - ‎2025‎-‎06‎-‎26T14:16:04.463980500Z。
+資訊,2025/6/26 下午 10:15:50,Microsoft-Windows-RestartManager,10001,無,正在結束工作階段 0 已啟動 ‎2025‎-‎06‎-‎26T14:15:41.575874700Z。
+資訊,2025/6/26 下午 10:15:41,Microsoft-Windows-RestartManager,10000,無,正在開始工作階段 0 - ‎2025‎-‎06‎-‎26T14:15:41.575874700Z。
+資訊,2025/6/26 下午 10:15:41,Microsoft-Windows-RestartManager,10001,無,正在結束工作階段 0 已啟動 ‎2025‎-‎06‎-‎26T14:15:41.462609500Z。
+資訊,2025/6/26 下午 10:15:41,Microsoft-Windows-RestartManager,10000,無,正在開始工作階段 0 - ‎2025‎-‎06‎-‎26T14:15:41.462609500Z。
+資訊,2025/6/26 下午 10:15:28,Microsoft-Windows-Security-SPP,16394,無,離線舊版移轉成功。
+資訊,2025/6/26 下午 10:15:18,Microsoft-Windows-Security-SPP,16384,無,順利排程軟體保護服務在 2125-06-02T14:15:18Z 重新啟動。原因: RulesEngine。
+資訊,2025/6/26 下午 10:15:06,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.WindowsAppRuntime.1.6_6000.519.329.0_x86__8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.WindowsAppRuntime.1.6_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:15:06,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.WindowsAppRuntime.1.6_6000.519.329.0_x64__8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.WindowsAppRuntime.1.6_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:14:48,Microsoft-Windows-Security-SPP,16394,無,離線舊版移轉成功。
+資訊,2025/6/26 下午 10:14:47,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: 141
+P2: ffff8308392e8010
+P3: fffff800c49561d0
+P4: 0
+P5: ffff83080b7240c0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250403-1333.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-136968218-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5336604f-3d56-420e-a895-cd93274bfcea.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b2e50697-030c-4435-a234-579f613c8e30.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.eaeab9e4-4f32-4bac-886f-5aa36a6b4dd9.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5924093a-9dec-42e5-a130-1b76e6f86f27.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_141_668ba472d4a095a9df8f58b04d6a33c2d1147d_00000000_b0890efb-22a6-48b4-b295-aa0a621078e7
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: b0890efb-22a6-48b4-b295-aa0a621078e7
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:14:47,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: a2000002
+P2: c8
+P3: 0
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\AMD_REPORT_UM\AMD_REPORT_UM-20250403-1333.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-136967640-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.61585707-50bb-48bb-a85e-4ca35ef15a14.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.70d46cf1-e4b7-48c3-b325-a022cfea8f23.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.421f3ecb-a03d-4924-865f-a9ee7dff74bf.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b6c894e6-770d-4771-ab84-7459def6a43a.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_a2000002_7f15b8b03b11b444e918a1ad6eccaddef2a5c6d_00000000_f73c6e27-1fa0-4504-b744-16813efba035
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: f73c6e27-1fa0-4504-b744-16813efba035
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:14:47,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: a1000001
+P2: 1
+P3: 0
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\AMD_WATCHDOG\AMD_WATCHDOG-20250403-1333.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-136964171-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.22a70a27-5836-49c7-8dd9-0d7b3b8dc82e.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6b7eb9e6-322e-49fb-a093-a4f9b605779c.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.f95099ca-7abb-449a-80a8-52ecd03446ca.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.120bdc5b-7119-466d-8bac-cf67bad83ea4.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_a1000001_3ae33155adff6f6d153a3796abfebacc6beb611_00000000_29fed0bd-030f-4768-845f-f0db64f2ad00
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: 29fed0bd-030f-4768-845f-f0db64f2ad00
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:14:46,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: 144
+P2: 1013
+P3: ffffa38de5abf190
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\USBXHCI\USBXHCI-20250305-1914-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-504900937-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7f9f0a80-c53a-4cba-b2db-03cca2c4ed2e.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2e2672f8-cc82-4932-b4d1-2e4764b6cfc7.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.dccac846-cf3c-4f5e-8a22-5b75808bb9e5.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6b9d7746-8d83-4e92-92b4-ed37144ce7d5.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_144_cc53f392243ddb85248319a352e2c8731df744f_00000000_84063e55-8df1-4b5e-b450-48cd3daf8063
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: 84063e55-8df1-4b5e-b450-48cd3daf8063
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:14:46,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: 144
+P2: 1012
+P3: ffffa38de5b17190
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\USBXHCI\USBXHCI-20250305-1914.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-504899937-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.84558c21-d267-433f-862e-2e74f6847857.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2b51b45e-c087-45be-9472-bce30beba753.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7ae9d22b-a112-4742-8fa8-cb049ff7628c.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8319e862-ac83-4a39-af35-3e852673f4af.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_144_707f5521e446991fcbf9b134434ef83a7fa3ba8_00000000_b6ce720b-3606-4d9c-8a6d-cc981d115a37
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: b6ce720b-3606-4d9c-8a6d-cc981d115a37
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:14:26,Microsoft-Windows-Security-SPP,16384,無,順利排程軟體保護服務在 2125-06-02T14:14:26Z 重新啟動。原因: RulesEngine。
+資訊,2025/6/26 下午 10:13:56,Microsoft-Windows-Security-SPP,16394,無,離線舊版移轉成功。
+警告,2025/6/26 下午 10:13:36,MouseWithoutBordersHelper,0,無,"GetClipboardText: TXT = 12, RTF = 0, HTM = 430."
+警告,2025/6/26 下午 10:13:33,MouseWithoutBordersHelper,0,無,"GetClipboardText: TXT = 21, RTF = 0, HTM = 439."
+警告,2025/6/26 下午 10:13:28,MouseWithoutBordersHelper,0,無,"GetClipboardText: TXT = 27, RTF = 0, HTM = 445."
+警告,2025/6/26 下午 10:13:27,MouseWithoutBordersHelper,0,無,"GetClipboardText: TXT = 12, RTF = 0, HTM = 430."
+資訊,2025/6/26 下午 10:10:50,Microsoft-Windows-Security-SPP,16384,無,順利排程軟體保護服務在 2125-06-02T14:10:50Z 重新啟動。原因: RulesEngine。
+資訊,2025/6/26 下午 10:09:38,brave,0,無,操作順利完成。 
+資訊,2025/6/26 下午 10:09:33,edgeupdate,0,無,Service stopped.
+資訊,2025/6/26 下午 10:09:32,Microsoft-Windows-AppXDeploymentServer/Operational,2562,無,"找不到來自來源 Microsoft-Windows-AppXDeploymentServer/Operational 之事件識別碼 2562 的描述。本機電腦可能並未安裝引發此事件的元件，或安裝已損毀。您可以在本機電腦上安裝或修復該元件。
+
+如果事件源自其他電腦，則儲存它們時必須一併儲存顯示資訊。
+
+下列資訊已隨附於該事件: 
+
+MSIXDeployment
+windows.applicationData
+DeleteMachineFolder
+Package Microsoft.Winget.Source_2025.621.1509.5_neutral__8wekyb3d8bbwe removed machine folder C:\ProgramData\Microsoft\Windows\AppRepository\Families\ApplicationData\Microsoft.Winget.Source_8wekyb3d8bbwe: 系統找不到指定的路徑。
+
+訊息資源已存在，但在訊息表格中找不到訊息。
+"
+資訊,2025/6/26 下午 10:09:31,Chrome,256,(1),[15828:14644:0626/220931.580:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+警告,2025/6/26 下午 10:09:08,MouseWithoutBordersHelper,0,無,Trace: Clipboard monitor method AddClipboardFormatListener is used.
+警告,2025/6/26 下午 10:09:08,MouseWithoutBordersHelper,0,無,SetProcessDPIAware: True.
+警告,2025/6/26 下午 10:09:08,MouseWithoutBordersHelper,0,無,SetProcessDpiAwareness: -2147024891.
+資訊,2025/6/26 下午 10:09:01,asus,0,無,操作順利完成。 
+資訊,2025/6/26 下午 10:08:54,Microsoft-Windows-Winlogon,6000,無,winlogon 通知訂閱者 <SessionEnv> 無法處理通知事件。
+資訊,2025/6/26 下午 10:08:54,Microsoft-Windows-Winlogon,6003,無,winlogon 通知訂閱者 <SessionEnv> 無法處理重要通知事件。
+資訊,2025/6/26 下午 10:08:52,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: 141
+P2: ffff8308392e8010
+P3: fffff800c49561d0
+P4: 0
+P5: ffff83080b7240c0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250403-1333.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-136968218-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5336604f-3d56-420e-a895-cd93274bfcea.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b2e50697-030c-4435-a234-579f613c8e30.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.eaeab9e4-4f32-4bac-886f-5aa36a6b4dd9.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5924093a-9dec-42e5-a130-1b76e6f86f27.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_141_668ba472d4a095a9df8f58b04d6a33c2d1147d_00000000_b0890efb-22a6-48b4-b295-aa0a621078e7
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: b0890efb-22a6-48b4-b295-aa0a621078e7
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:08:52,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: a2000002
+P2: c8
+P3: 0
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\AMD_REPORT_UM\AMD_REPORT_UM-20250403-1333.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-136967640-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.61585707-50bb-48bb-a85e-4ca35ef15a14.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.70d46cf1-e4b7-48c3-b325-a022cfea8f23.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.421f3ecb-a03d-4924-865f-a9ee7dff74bf.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b6c894e6-770d-4771-ab84-7459def6a43a.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_a2000002_7f15b8b03b11b444e918a1ad6eccaddef2a5c6d_00000000_f73c6e27-1fa0-4504-b744-16813efba035
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: f73c6e27-1fa0-4504-b744-16813efba035
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:08:52,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: a1000001
+P2: 1
+P3: 0
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\AMD_WATCHDOG\AMD_WATCHDOG-20250403-1333.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-136964171-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.22a70a27-5836-49c7-8dd9-0d7b3b8dc82e.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6b7eb9e6-322e-49fb-a093-a4f9b605779c.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.f95099ca-7abb-449a-80a8-52ecd03446ca.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.120bdc5b-7119-466d-8bac-cf67bad83ea4.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_a1000001_3ae33155adff6f6d153a3796abfebacc6beb611_00000000_29fed0bd-030f-4768-845f-f0db64f2ad00
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: 29fed0bd-030f-4768-845f-f0db64f2ad00
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:08:52,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: 144
+P2: 1013
+P3: ffffa38de5abf190
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\USBXHCI\USBXHCI-20250305-1914-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-504900937-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7f9f0a80-c53a-4cba-b2db-03cca2c4ed2e.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2e2672f8-cc82-4932-b4d1-2e4764b6cfc7.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.dccac846-cf3c-4f5e-8a22-5b75808bb9e5.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6b9d7746-8d83-4e92-92b4-ed37144ce7d5.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_144_cc53f392243ddb85248319a352e2c8731df744f_00000000_84063e55-8df1-4b5e-b450-48cd3daf8063
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: 84063e55-8df1-4b5e-b450-48cd3daf8063
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:08:52,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: 144
+P2: 1012
+P3: ffffa38de5b17190
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\USBXHCI\USBXHCI-20250305-1914.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-504899937-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.84558c21-d267-433f-862e-2e74f6847857.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2b51b45e-c087-45be-9472-bce30beba753.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7ae9d22b-a112-4742-8fa8-cb049ff7628c.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8319e862-ac83-4a39-af35-3e852673f4af.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_144_707f5521e446991fcbf9b134434ef83a7fa3ba8_00000000_b6ce720b-3606-4d9c-8a6d-cc981d115a37
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: b6ce720b-3606-4d9c-8a6d-cc981d115a37
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:08:52,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: 141
+P2: ffff8308392e8010
+P3: fffff800c49561d0
+P4: 0
+P5: ffff83080b7240c0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250403-1333.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-136968218-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5336604f-3d56-420e-a895-cd93274bfcea.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b2e50697-030c-4435-a234-579f613c8e30.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.eaeab9e4-4f32-4bac-886f-5aa36a6b4dd9.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5924093a-9dec-42e5-a130-1b76e6f86f27.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_141_668ba472d4a095a9df8f58b04d6a33c2d1147d_00000000_b0890efb-22a6-48b4-b295-aa0a621078e7
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: b0890efb-22a6-48b4-b295-aa0a621078e7
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:08:52,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: a2000002
+P2: c8
+P3: 0
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\AMD_REPORT_UM\AMD_REPORT_UM-20250403-1333.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-136967640-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.61585707-50bb-48bb-a85e-4ca35ef15a14.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.70d46cf1-e4b7-48c3-b325-a022cfea8f23.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.421f3ecb-a03d-4924-865f-a9ee7dff74bf.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b6c894e6-770d-4771-ab84-7459def6a43a.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_a2000002_7f15b8b03b11b444e918a1ad6eccaddef2a5c6d_00000000_f73c6e27-1fa0-4504-b744-16813efba035
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: f73c6e27-1fa0-4504-b744-16813efba035
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:08:52,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: a1000001
+P2: 1
+P3: 0
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\AMD_WATCHDOG\AMD_WATCHDOG-20250403-1333.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-136964171-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.22a70a27-5836-49c7-8dd9-0d7b3b8dc82e.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6b7eb9e6-322e-49fb-a093-a4f9b605779c.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.f95099ca-7abb-449a-80a8-52ecd03446ca.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.120bdc5b-7119-466d-8bac-cf67bad83ea4.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_a1000001_3ae33155adff6f6d153a3796abfebacc6beb611_00000000_29fed0bd-030f-4768-845f-f0db64f2ad00
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: 29fed0bd-030f-4768-845f-f0db64f2ad00
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:08:52,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: 144
+P2: 1013
+P3: ffffa38de5abf190
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\USBXHCI\USBXHCI-20250305-1914-01.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-504900937-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7f9f0a80-c53a-4cba-b2db-03cca2c4ed2e.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2e2672f8-cc82-4932-b4d1-2e4764b6cfc7.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.dccac846-cf3c-4f5e-8a22-5b75808bb9e5.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6b9d7746-8d83-4e92-92b4-ed37144ce7d5.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_144_cc53f392243ddb85248319a352e2c8731df744f_00000000_84063e55-8df1-4b5e-b450-48cd3daf8063
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: 84063e55-8df1-4b5e-b450-48cd3daf8063
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:08:52,Windows Error Reporting,1001,無,"錯誤容器 ，類型 0
+事件名稱: LiveKernelEvent
+回應: 無法使用
+Cab 識別碼: 0
+
+問題簽章:
+P1: 144
+P2: 1012
+P3: ffffa38de5b17190
+P4: 0
+P5: 0
+P6: 10_0_26100
+P7: 0_0
+P8: 256_1
+P9: 
+P10: 
+
+附加檔案:
+\\?\C:\WINDOWS\LiveKernelReports\USBXHCI\USBXHCI-20250305-1914.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-504899937-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.84558c21-d267-433f-862e-2e74f6847857.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2b51b45e-c087-45be-9472-bce30beba753.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7ae9d22b-a112-4742-8fa8-cb049ff7628c.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8319e862-ac83-4a39-af35-3e852673f4af.tmp.xml
+
+這些檔案可能在這裡:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_144_707f5521e446991fcbf9b134434ef83a7fa3ba8_00000000_b6ce720b-3606-4d9c-8a6d-cc981d115a37
+
+分析符號: 
+重新檢查解決方案: 0
+報告識別碼: b6ce720b-3606-4d9c-8a6d-cc981d115a37
+報告狀態: 2049
+雜湊化容器: 
+Cab GUID: 0"
+資訊,2025/6/26 下午 10:08:50,Microsoft-Windows-Security-SPP,16394,無,離線舊版移轉成功。
