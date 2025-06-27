@@ -38,7 +38,7 @@ for($i=0;$i -lt $types.Length;$i++){
             | Select-Object -Skip 1 `
             | ForEach-Object { $_ -replace '"([^"]*)"', '$1' }
 
-    $FilePath="~\Downloads\$($kmtDate)$($logNames[$types[$i]]).csv"
+    $FilePath="$env:USERPROFILE\Downloads\$($kmtDate)$($logNames[$types[$i]]).csv"
 
     if($types[$i] -eq "Security"){
         Set-Content -Path $FilePath -Value "關鍵字,日期和時間,來源,事件識別碼,工作類別"
